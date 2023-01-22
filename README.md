@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👨🏻‍🎓 **About**
 
-<!--
-**ognimoddd/ognimoddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 B.S Computer Science graduate from Montclair State University
+* 🔭 I’m currently working on data analytics and software engineering projects
+* 🌱 I’m currently learning SQL, Tableau, Java, and Python
+* 📫 How to reach me: ognimoddd998@gmail.com
+* ⚡ Fun fact: Recently got into the fishkeeping hobby. Currently own a 45 gallon tank, and plan on getting more tanks to add several different fish species! 🐟🐠
 
-Here are some ideas to get you started:
+### 📊 Data Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 
+*
+
+### Tableau
+
+* 
