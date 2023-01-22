@@ -8,9 +8,10 @@
 
 ### 📊 Data Projects
 
-* 
-*
+* <a href="https://github.com/ognimoddd/US-gun-violence-case-study">**R and Tableau:** U.S Gun Violence Case Study</a>
+* <a href="https://github.com/ognimoddd/bellabeat-case-study-r">**R:** How to Increase Market Share with Bellabeat Fitness Data</a>
 
-### Tableau
+### 📫 Kaggle and Tableau
 
-* 
+* <a href="https://www.kaggle.com/ognimoddd">My Kaggle Account</a>
+* <a href="https://public.tableau.com/app/profile/domingo.guzman">My Tableau Account</a>
