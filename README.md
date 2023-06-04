@@ -6,6 +6,10 @@
 * 📫 How to reach me: ognimoddd998@gmail.com
 * ⚡ Fun fact: Recently got into the fishkeeping hobby. Currently own a 45 gallon tank, and plan on getting more tanks to add several different fish species! 🐟🐠
 
+### 💻 Software Development Projects
+
+* <a href="https://github.com/ognimoddd/bearded-dragon-store">**PHP, SQL, HTML, CSS, Javascript:** Domingo's Bearded Dragon Store</a>
+
 ### 📊 Data Projects
 
 * <a href="https://github.com/ognimoddd/US-gun-violence-case-study">**R and Tableau:** U.S Gun Violence Case Study</a>
