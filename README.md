@@ -9,6 +9,7 @@
 ### 💻 Software Development Projects
 
 * <a href="https://github.com/ognimoddd/bearded-dragon-store">**PHP, SQL, HTML, CSS, Javascript:** Domingo's Bearded Dragon Store</a>
+* <a href="https://github.com/ognimoddd/breakout-game">**Java:** Breakout Game</a>
 
 ### 📊 Data Projects
 
