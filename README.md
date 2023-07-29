@@ -4,7 +4,7 @@
 * 🔭 I’m currently working on software engineering projects to expand my skillset
 * 🌱 I’m currently learning Java, SQL, and Python
 * 📫 How to reach me: ognimoddd998@gmail.com
-* ⚡️ Fun fact: I Recently got into the fishkeeping hobby. Currently own a 45 gallon tank, and plan on getting more tanks to add several different fish species! 🐟🐠
+* ⚡️ Fun fact: I Recently got into the fishkeeping hobby. Currently own a 75 gallon tank, and plan on getting more tanks to add several different fish species! 🐟🐠
 
 ### 💻 Software Development Projects
 
