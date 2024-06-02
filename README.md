@@ -6,7 +6,7 @@
 
 - 🎓 B.S Computer Science graduate from Montclair State University
 
-- 🌱 I’m currently working on: **Expanding my skillset by building React projects**
+- 🌱 I’m currently working on: **Building projects using the React framework**
 
 - 💬 Ask me about: **Java, Angular, Spring Boot, MySQL**
 
