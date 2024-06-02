@@ -1,9 +1,8 @@
-![MasterHead](https://cdn.vectorstock.com/i/500p/73/31/programmer-at-work-concept-banner-software-web-vector-29547331.jpg)
+<!-- ![MasterHead](https://cdn.vectorstock.com/i/500p/73/31/programmer-at-work-concept-banner-software-web-vector-29547331.jpg) -->
 <h1 align="center">Hi 👋, I'm Domingo Guzman</h1>
-<h3 align="center">A passionate software developer from New Jersey</h3>
+<h3 align="center">A freelance software developer based out of New Jersey</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952bjkfo7rcwrkd7lzkd78an7ppoz3abuvob2l8x25b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ognimoddd&label=Profile%20views&color=0e75b6&style=flat" alt="ognimoddd" /> </p>
 
 - 🎓 B.S Computer Science graduate from Montclair State University
 
@@ -32,9 +31,10 @@
 
 # 💻 Software Development Projects
 
-* <a href="https://github.com/ognimoddd/bearded-dragon-store">**PHP, SQL, HTML, CSS, Javascript:** Domingo's Bearded Dragon Store</a>
+* <a href="https://github.com/ognimoddd/fullstack-angular-springboot">**Angular, Java, Spring Boot:** The Michael Emma Store
 * <a href="https://github.com/ognimoddd/personal-budget">**Spring Boot, Hibernate, REST, Thymeleaf, JavaScript, jQuery, Bootstrap:** PersonalBudget</a>
 * <a href="https://github.com/ognimoddd/elo-saver">**Java, Python:** Elo-Saver</a>
+* <a href="https://github.com/ognimoddd/bearded-dragon-store">**PHP, SQL, HTML, CSS, Javascript:** Domingo's Bearded Dragon Store</a>
 * <a href="https://github.com/ognimoddd/breakout-game">**Java:** Breakout Game</a>
 * <a href="https://github.com/ognimoddd/passbox">**Java, SQL:** PassBox</a>
 
@@ -49,4 +49,6 @@
 * <a href="https://public.tableau.com/app/profile/domingo.guzman">My Tableau Account</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ognimoddd&show_icons=true&locale=en&layout=compact" alt="ognimoddd" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ognimoddd&label=Profile%20views&color=0e75b6&style=flat" alt="ognimoddd" /> </p>
 
