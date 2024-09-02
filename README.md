@@ -31,7 +31,7 @@
 
 # 💻 Software Development Projects
 
-* <a href="https://github.com/ognimoddd/fullstack-angular-springboot">**Angular, TypeScript, Spring Boot, Java, HTML/CSS:** The Michael Emma Store
+* <a href="https://github.com/ognimoddd/fullstack-angular-springboot">**Angular, Spring Boot, TypeScript, Java, HTML/CSS:** The Michael Emma Store
 * <a href="https://github.com/ognimoddd/personal-budget">**Spring Boot, Hibernate, REST, Thymeleaf, JavaScript, jQuery, Bootstrap:** PersonalBudget</a>
 * <a href="https://github.com/ognimoddd/elo-saver">**Java, Python:** Elo-Saver</a>
 * <a href="https://github.com/ognimoddd/bearded-dragon-store">**PHP, SQL, HTML, CSS, Javascript:** Domingo's Bearded Dragon Store</a>
