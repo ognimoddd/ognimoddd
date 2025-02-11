@@ -30,7 +30,6 @@
 # 💻 Software Development Projects
 
 * <a href="https://github.com/ognimoddd/fullstack-angular-springboot">**Angular, Spring Boot, TypeScript, Java, HTML/CSS:** The Michael Emma Store
-* <a href="https://github.com/ognimoddd/takenotesapp">**React Native, JavaScript, Java, HTML/CSS:** TakeNotes
 * <a href="https://github.com/ognimoddd/personal-budget">**Spring Boot, Hibernate, REST, Thymeleaf, JavaScript, jQuery, Bootstrap:** PersonalBudget</a>
 * <a href="https://github.com/ognimoddd/elo-saver">**Java, Python:** Elo-Saver</a>
 * <a href="https://github.com/ognimoddd/breakout-game">**Java:** Breakout Game</a>
